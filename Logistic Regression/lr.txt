@@ -1,0 +1,6 @@
+------------------- Contains code for Logistic regression algorithm which have been implemented from scratch -------------------
+As of now it contains 3 files, these files are mentioned below :
+
+  1.  Logistic_Regression                       ---> .ipynb file containg scratch code without any comment
+  2.  logistic_regression_py file_comment added ----> Commented python file
+  3. Logistic_Regression _jupyter_comment added ----> Commented Jupyter file
